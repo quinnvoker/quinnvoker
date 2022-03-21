@@ -1,5 +1,7 @@
-### Hi there 👋
+I'm Quinn, a full-stack web developer working primarily with Rails and React. I also develop games and game dev tools as a personal hobby. I hope you enjoy my work, and if you use any of my tools to help with your games, I'd love to see them!
 
+|![Quinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinnvoker&show_icons=true&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quinnvoker&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|-|-|
 <!--
 **quinnvoker/quinnvoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
